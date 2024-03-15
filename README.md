@@ -32,4 +32,7 @@
 </beans>
 ```
 
-4. Init Application Context in use: `ApplicationContext context = new ClassPathXmlApplicationContext("application_context.xml");`.
+4. Init Application Context in use:
+```
+ApplicationContext context = new ClassPathXmlApplicationContext("application_context.xml");
+```
